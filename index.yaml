@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  pages:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-11-26T07:17:27.883772389Z"
+    dependencies:
+    - name: pages-api
+      repository: https://sarubits.github.io/
+      version: 1.x.x
+    - name: mysql
+      repository: https://sarubits.github.io/
+      version: 1.x.x
+    description: A Helm chart for Pages Application
+    digest: ed66834e59d7105a9b0b718ddcb47759ed170930cb7260aa811a96890b4712c6
+    name: pages
+    type: application
+    urls:
+    - pages-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-11-26T07:17:27.882526082Z"
